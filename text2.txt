@@ -1,1 +1,9 @@
+method to create a file in visual code and add it to github repository.
 
+1. create a file in visual studio code 
+2. add the file to staging area 
+      |_> git add filename.extension
+3. store it in git file
+      |_> git commit -m " " //give any message.compulsary.
+4. push to github repository
+      |_> git push origin main
