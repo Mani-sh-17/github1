@@ -7,3 +7,7 @@ method to create a file in visual code and add it to github repository.
       |_> git commit -m " " //give any message.compulsary.
 4. push to github repository
       |_> git push origin main
+
+
+how to bring the new change in github repository to working folder
+      |_> git pull
