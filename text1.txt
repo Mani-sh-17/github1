@@ -1,1 +1,4 @@
-created test1.txt file
+how to restart the work with github repository.
+
+1. change the current directory to the github repository filename. eg(github1)
+    |_>cd filename.  eg cd github1
